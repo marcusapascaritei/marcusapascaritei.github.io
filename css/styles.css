@@ -10046,10 +10046,9 @@ p.lead {
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
 
-    #sideNav .navbar-brand .img-turkey {
-        max-width: 2rem;
-        max-height: 2rem;
-        border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    .turkey {
+       width: 300px;
+       
     }
   #sideNav .navbar-collapse {
     display: flex;
