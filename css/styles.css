@@ -9781,15 +9781,15 @@ button.bg-dark:focus {
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #824027 !important;
+    color: #2f3338 !important;
 }
 
 .text-secondary {
-  color: #6c757d !important;
+    color: #2f3338 !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
-  color: #494f54 !important;
+    color: #2f3338 !important;
 }
 
 .text-success {
