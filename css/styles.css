@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 /*!
 * Start Bootstrap - Resume v6.0.2 (https://startbootstrap.com/theme/resume)
 * Copyright 2013-2020 Start Bootstrap
@@ -10045,6 +10045,12 @@ p.lead {
     max-height: 10rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
+
+    ##sideNav .navbar-brand .img-turkey {
+        max-width: 2rem;
+        max-height: 2rem;
+        border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    }
   #sideNav .navbar-collapse {
     display: flex;
     align-items: flex-start;
