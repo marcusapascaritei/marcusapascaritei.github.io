@@ -9777,7 +9777,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-    color: #07396b !important;
+    color: #2f3338 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10021,7 +10021,7 @@ p.lead {
   text-transform: uppercase;
 }
 #sideNav .navbar-toggler:focus {
-    outline-color: #1e80e3;
+    outline-color: #1050a1;
 }
 
 @media (min-width: 992px) {
