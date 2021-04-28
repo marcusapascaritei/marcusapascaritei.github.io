@@ -4682,12 +4682,12 @@ a.badge:hover, a.badge:focus {
 }
 
 .badge-primary {
-  color: #fff;
-  background-color: #bd5d38;
+    color: #fff;
+    background-color: #1774d1;
 }
 a.badge-primary:hover, a.badge-primary:focus {
-  color: #fff;
-  background-color: #964a2c;
+    color: #fff;
+    background-color: #0d4175;
 }
 a.badge-primary:focus, a.badge-primary.focus {
   outline: 0;
@@ -4955,15 +4955,15 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .progress-bar {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  overflow: hidden;
-  color: #fff;
-  text-align: center;
-  white-space: nowrap;
-  background-color: #bd5d38;
-  transition: width 0.6s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    background-color: #0d4175;
+    transition: width 0.6s ease;
 }
 @media (prefers-reduced-motion: reduce) {
   .progress-bar {
@@ -5040,12 +5040,12 @@ a.badge-dark:focus, a.badge-dark.focus {
   pointer-events: none;
   background-color: #fff;
 }
-.list-group-item.active {
-  z-index: 2;
-  color: #fff;
-  background-color: #bd5d38;
-  border-color: #bd5d38;
-}
+    .list-group-item.active {
+        z-index: 2;
+        color: #fff;
+        background-color: #1e72c7;
+        border-color: #1e72c7;
+    }
 .list-group-item + .list-group-item {
   border-top-width: 0;
 }
